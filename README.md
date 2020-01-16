@@ -1,2 +1,3 @@
 # Hello-World-
 My ridiculously late attempt at really learning how to use Git... 
+I am trying to use GitHub to organize my development efforts in Science and Technology.
